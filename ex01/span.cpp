@@ -2,6 +2,11 @@
 #include <vector>
 #include <algorithm>
 
+Span::Span()
+{
+	
+}
+
 Span::Span(unsigned int n):n(n)
 {
 

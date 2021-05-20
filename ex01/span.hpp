@@ -5,6 +5,8 @@
 
 class Span
 {
+	private:
+		Span();
 	public:
 		Span(unsigned int n);
 		Span(Span const &other);
